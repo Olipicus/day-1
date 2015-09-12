@@ -6,13 +6,13 @@ Git-Note
 	1.4 git diff : ใช้เพื่อตรวขสอบ ว่าในไฟล์ มีส่วนไหนที่ต่างกันบ้าง จาก commit ที่แล้ว
 			แต่ถ้า git add ไฟล์นั้นไปแล้ว ให้เติม option --cached ด้วย
 	1.5 git commit : ใช้เพื่อเป็นจุด check point และบอกสิ่งที่เรากระทำไป
-
-
 ----------
-
+2 Remote Command
+	2.1 การ commit ขึ้น github ใช้คำสั่ง git push gitnote master 
+	2.2 การ update จาก github ใช้คำสั่ง git pull gitnote master
+----------
 3 Git Hub(https://github.com)
 	1 github สามารถเปิด issue ได้ และสามารถ track ได้ สามารถปิด issue ได้ โดยการ commit แล้วระบุ message อ้างถึงหมายเลข issue เช่น git commit -m "Fixed #1"  โดยที่ #1 คือหมายเลข issue
    	2 สามารถทำงานใน Repositories ของเพื่อนในทีมได้ โดยการ  git remote add gitnote git@github.com:Olipicus/day-1.git
 	3 เรียนรู้คำสั่งต่างๆโดยพิพม์คำสั่ง git help <push> โดยที่  "push" คือคำสั่งที่ต้องการรู้
 ----------
-
