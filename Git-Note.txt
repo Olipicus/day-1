@@ -3,7 +3,7 @@
 3 Git Hub(https://github.com)
 	1 github สามารถเปิด issue ได้ และสามารถ track ได้ สามารถปิด issue ได้ โดยการ commit แล้วระบุ message อ้างถึงหมายเลข issue เช่น git commit -m "Fixed #1"  โดยที่ #1 คือหมายเลข issue
    	2 สามารถทำงานใน Repositories ของเพื่อนในทีมได้ โดยการ  git remote add gitnote git@github.com:Olipicus/day-1.git
-
+	3 เรียนรู้คำสั่งต่างๆโดยพิพม์คำสั่ง git help <push> โดยที่  "push" คือคำสั่งที่ต้องการรู้
 ----------
 =======
 1. Local Command
