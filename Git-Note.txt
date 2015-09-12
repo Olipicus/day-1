@@ -2,3 +2,4 @@ Git-Note
 1. Local Command
 	1.1 git init : ใช้เพื่อทำการ Initial Floder ที่เราทำงาน
 	1.2 git clone : ใช้เพื่อ ทำการ clone มาจาก repo อื่น ๆ  
+	1.3 git add : ใช้เพื่อ add file ที่ต้องการทำการ track
