@@ -1,8 +1,13 @@
-﻿Git-Note
-<<<<<<< HEAD
+Git-Note
+1. Local Command
+	1.1 git init : ใช้เพื่อทำการ Initial Floder ที่เราทำงาน
+	1.2 git clone : ใช้เพื่อ ทำการ clone มาจาก repo อื่น ๆ  
+	1.3 git add : ใช้เพื่อ add file ที่ต้องการทำการ track
+
 3 Git Hub(https://github.com)
 	1 github สามารถเปิด issue ได้ และสามารถ track ได้ สามารถปิด issue ได้ โดยการ commit แล้วระบุ message อ้างถึงหมายเลข issue เช่น git commit -m "Fixed #1"  โดยที่ #1 คือหมายเลข issue
    	2 สามารถทำงานใน Repositories ของเพื่อนในทีมได้ โดยการ  git remote add gitnote git@github.com:Olipicus/day-1.git
+<<<<<<< HEAD
 	3 เรียนรู้คำสั่งต่างๆโดยพิพม์คำสั่ง git help <push> โดยที่  "push" คือคำสั่งที่ต้องการรู้
 ----------
 =======
@@ -10,3 +15,5 @@
 	1.1 git init : เนเธเนเน€เธเธทเนเธญเธ—เธณเธเธฒเธฃ Initial Floder เธ—เธตเนเน€เธฃเธฒเธ—เธณเธเธฒเธ
 	1.2 git clone : เนเธเนเน€เธเธทเนเธญ เธ—เธณเธเธฒเธฃ clone เธกเธฒเธเธฒเธ repo เธญเธทเนเธ เน 
 >>>>>>> 3a8f260532b33d25567537cacd473571888f7e69
+=======
+>>>>>>> 80790957da396069f4328793a76d26e9e4cf224d
