@@ -3,6 +3,11 @@ Git-Note
 	1.1 git init : ใช้เพื่อทำการ Initial Floder ที่เราทำงาน
 	1.2 git clone : ใช้เพื่อ ทำการ clone มาจาก repo อื่น ๆ  
 	1.3 git add : ใช้เพื่อ add file ที่ต้องการทำการ track
+	1.4 git diff : ใช้เพื่อตรวขสอบ ว่าในไฟล์ มีส่วนไหนที่ต่างกันบ้าง จาก commit ที่แล้ว
+			แต่ถ้า git add ไฟล์นั้นไปแล้ว ให้เติม option --cached ด้วย
+
+
+—————
 
 3 Git Hub(https://github.com)
 	1 github สามารถเปิด issue ได้ และสามารถ track ได้ สามารถปิด issue ได้ โดยการ commit แล้วระบุ message อ้างถึงหมายเลข issue เช่น git commit -m "Fixed #1"  โดยที่ #1 คือหมายเลข issue
